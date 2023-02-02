@@ -97,16 +97,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\basis\avcodec-57.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\basis\avformat-57.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\basis\avutil-55.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\basis\swresample-2.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\basis\swscale-4.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\stage\avcodec-57.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\stage\avformat-57.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\stage\avutil-55.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\stage\swresample-2.dll" />
-    <None Include="..\..\..\platform\thirdparty\binary\Win32\stage\swscale-4.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Debug\avcodec-57.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Debug\avformat-57.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Debug\avutil-55.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Debug\swresample-2.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Debug\swscale-4.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Release\avcodec-57.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Release\avformat-57.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Release\avutil-55.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Release\swresample-2.dll" />
+    <None Include="..\..\..\platform\thirdparty\binary\Win32\Release\swscale-4.dll" />
     <None Include="axisclientchannels.def" />
   </ItemGroup>
   <ItemGroup>
